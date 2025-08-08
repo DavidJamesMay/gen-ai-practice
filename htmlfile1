@@ -1,0 +1,18 @@
+<!DOCTYPE html> 
+
+<html> 
+
+<head> 
+<title>Any title</title> 
+</head> 
+
+<body> 
+    <h1> Welcome To Amazon.com </h1>
+
+    <h6> This is heading</h6>
+
+    <p> style ="backgroundcolor : lightblue"> HTML </p>
+    <p> This is a paragraph </p>
+</body> 
+
+</html
