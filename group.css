@@ -1,0 +1,31 @@
+h1
+ {
+    background-color: aquamarine;
+    border-style: solid;
+    border-width: 4px;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+   
+}
+
+p
+ {
+    font-size: 20px;
+    background-color: aquamarine;
+    border-style: solid;
+    border-width: 4px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+
+body
+ {
+    background-color: grey;
+   
+    
+
+ }
+

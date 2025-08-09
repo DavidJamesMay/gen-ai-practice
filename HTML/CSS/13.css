@@ -1,0 +1,47 @@
+body {
+
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.content {
+    background-image: url('background.jpg');
+    background-size: cover;
+    border: 3px solid black;
+    border-radius: 12px;
+    padding: 20px;
+    margin: 50px;
+    text-align: center;
+    background-color: rgba(50, 52, 53, 0.8);
+}
+
+h1 {
+
+   text-decoration: wavy underline;
+   text-shadow: rgb(7, 0, 14) 2px 2px 4px;
+    font-family: Arial, sans-serif;
+    color: violet;
+}
+
+p {
+    font-size: 18px;
+    font-style: italic;
+    color: rgb(74, 234, 52);
+    text-shadow: rgb(0, 0, 0) 1px 1px 2px;
+
+}
+
+a {
+    text-decoration: none;
+    color: violet;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: black 2px 2px 4px;
+
+}
+
+a:hover {
+    text-decoration: underline;
+    color: goldenrod;
+    border: black 6px solid;
+}
